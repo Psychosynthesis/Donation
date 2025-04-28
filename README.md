@@ -4,11 +4,12 @@
 If you find my projects useful, it will be absolutely awesome if you donate to me for food in any way convenient for you.
 
 ### Toncoin
-`EQDfwSjKI-F_EfH2Yi5qJ-ezwpg5HdujVjBR_TlfxlCuzV5m` \
+`UQDfwSjKI-F_EfH2Yi5qJ-ezwpg5HdujVjBR_TlfxlCuzQOj` \
 (only TON network)
 
 ### Tether (USDt)
-`0x8feC633be939489dE3bdfAAfBAb0840C36aB242b` (ERC20)
+`0x8feC633be939489dE3bdfAAfBAb0840C36aB242b` \
+(ERC20)
 
 ### Ethereum
 `0x8feC633be939489dE3bdfAAfBAb0840C36aB242b`
